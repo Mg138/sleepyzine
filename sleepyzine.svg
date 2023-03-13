@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 8.5 11"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="sleepyzine.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="sleepyzine.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview528"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="0.3901936"
+     inkscape:cx="331.88653"
+     inkscape:cy="492.06342"
+     inkscape:window-width="1870"
+     inkscape:window-height="1046"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs523" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f5f0e2;stroke:none;stroke-width:0.314881;stroke-linecap:round;paint-order:stroke markers fill"
+       id="rect757"
+       width="8.5"
+       height="11.000004"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.666667px;line-height:1.25;font-family:'Noto Sans Linear B';-inkscape-font-specification:'Noto Sans Linear B';stroke-width:0.0104167"
+       x="4.6323724"
+       y="0.92814654"
+       id="text1419"
+       transform="rotate(21.485713)"><tspan
+         sodipodi:role="line"
+         id="tspan1417"
+         style="stroke-width:0.0104167"
+         x="4.6323724"
+         y="0.92814654">testy meowy</tspan></text>
+  </g>
+</svg>
